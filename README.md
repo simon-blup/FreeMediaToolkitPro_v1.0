@@ -1,4 +1,4 @@
-<img width="1073" height="1088" alt="img" src="https://github.com/user-attachments/assets/98415f8a-7d8e-43cd-bb2c-c41be88a40b1" />
+<img width="270" height="270" alt="img" src="https://github.com/user-attachments/assets/98415f8a-7d8e-43cd-bb2c-c41be88a40b1" />
 
 # 🎬 MediaToolkitPro
 
